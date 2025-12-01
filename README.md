@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
                                                                                 I love cars and computers.
 
                                             ![BmwGIF (2)](https://github.com/user-attachments/assets/35f4b750-28cd-455d-8ca3-a014b3a8de7b)
