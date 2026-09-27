@@ -1,7 +1,7 @@
 # About Me:
                                                                                 I love cars and computers.
 
-                                            ![BmwGIF (2)](https://github.com/user-attachments/assets/35f4b750-28cd-455d-8ca3-a014b3a8de7b)
+                                            <div class="tenor-gif-embed" data-postid="26168617" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/w211-gif-26168617">W211 GIF</a>from <a href="https://tenor.com/search/w211-gifs">W211 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-rujanac-95880326a/) 
