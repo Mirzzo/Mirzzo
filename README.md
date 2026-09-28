@@ -1,7 +1,7 @@
 # About Me:
                                                                                 I love cars and computers.
 
-                                          <img width="640" height="296" alt="w211" src="https://github.com/user-attachments/assets/b532a25d-8205-4ced-add0-b7dd89250516" />
+<img width="640" height="296" alt="w211" style="display:flex; justify-content:center" src="https://github.com/user-attachments/assets/b532a25d-8205-4ced-add0-b7dd89250516" />
 
 
 
